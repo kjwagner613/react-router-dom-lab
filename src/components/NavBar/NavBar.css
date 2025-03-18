@@ -1,0 +1,13 @@
+.navbar {
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+}
+
+.nav-links a {
+  color: #f2f5f9;
+  font-size: 18px;
+}
+
+.nav-links a:hover {
+  color: #ebeff4;
+}
